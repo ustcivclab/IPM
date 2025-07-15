@@ -36,6 +36,8 @@
 - [Modified VTM Encoder](#modified-vtm-encoder)
 
 
+⭐ If this project is helpful to you, please star this repo. Thanks! 🤗
+
 ## :wrench: Installation of Dependencies
 
 In order to explore this project, it is needed to first install the libraries used in it.
@@ -146,11 +148,6 @@ VTM10_L1_20_90.exe -el D:\\PartitionMat\\f65_intra\\PartitionMat\\f65_gop16\\Bas
 ```
 
 We provide partition flags for 22 VVC CTC sequences in GOP16 and GOP32 on [Baidu Cloud](https://pan.baidu.com/s/1STnEpLJmxiVV8AoA3hptRA?pwd=dddr). You can download these files and replace the `el`, `ac`, and `al` paths above to reproduce our results without invoking model.
-s
-
-
-
-
 
 
 ## :running_woman: TODO 
@@ -159,11 +156,26 @@ s
 
 
 
-## :bust_in_silhouette: Ackownledgement
+## :bust_in_silhouette: Citing
 
-We acknowledge the support of GPU and HPC cluster built by MCC Lab of Information Science and Technology Institution, USTC.
+If you use our work in your research, please use the following BibTeX entry.
+```
+@article{feng2025partition,
+  title={Partition Map-Based Fast Block Partitioning for VVC Inter Coding},
+  author={Feng, Xinmin and Li, Zhuoyuan and Li, Li and Liu, Dong and Wu, Feng},
+  journal={arXiv preprint arXiv:2504.18398},
+  year={2025}
+}
+```
 
-
-## References
-
-1. [Partition Map Prediction for Fast Block Partitioning in VVC Intra-frame Coding](https://github.com/AolinFeng/PMP-VVC-TIP2023)
+```
+@article{feng2023partition,
+  title={Partition map prediction for fast block partitioning in VVC intra-frame coding},
+  author={Feng, Aolin and Liu, Kang and Liu, Dong and Li, Li and Wu, Feng},
+  journal={IEEE Transactions on Image Processing},
+  volume={32},
+  pages={2237--2251},
+  year={2023},
+  publisher={IEEE}
+}
+```
