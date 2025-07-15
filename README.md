@@ -24,7 +24,7 @@
 </div>
 
 [![icon](https://img.shields.io/badge/ArXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2504.18398) [![python](https://img.shields.io/badge/Python-3.9-3776AB?logo=python&logoColor=white)](https://www.python.org/downloads/release/python-3900/) [![pytorch](https://img.shields.io/badge/PyTorch-1.12.1-ee4c2c?logo=pytorch&logoColor=white)](https://pytorch.org/get-started/previous-versions/)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ustc-ivclab.IPM)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ustcivclab.IPM)
 
 ---
 
